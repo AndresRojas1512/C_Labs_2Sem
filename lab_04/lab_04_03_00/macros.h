@@ -1,0 +1,15 @@
+#ifndef MACROS_H
+#define MACROS_H
+
+#define STRING_MAX_LEN 256
+#define WORD_MAX_LEN 16
+#define WORDS_MAX_NUM 128
+#define EXIT_UB 101
+#define EXIT_LONG_STRING 102
+#define EXIT_EMPTY_STRING 103
+#define EXIT_ERROR_BUFFER 104
+#define EXIT_WORD_LONG 105
+#define EXIT_NO_WORDS 106
+#define EXIT_WORD_EXCEED 108
+
+#endif

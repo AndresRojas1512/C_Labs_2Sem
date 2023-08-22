@@ -1,0 +1,7 @@
+Result: uno yes
+dos yes
+tres yes
+cuatro yes
+cinco yes
+seis yes
+siete yes

@@ -1,0 +1,5 @@
+Result: toyota yes
+suzuki yes
+renault no
+lada no
+volvo no

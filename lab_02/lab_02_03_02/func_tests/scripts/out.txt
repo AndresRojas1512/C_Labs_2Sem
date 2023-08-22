@@ -1,0 +1,2 @@
+Enter the number of elements: Enter the elements: 
+All elements were removed

@@ -1,0 +1,1 @@
+Enter the array elements: 1 2 5 7 8 9 14 17 23 25 

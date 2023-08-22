@@ -1,0 +1,25 @@
+#ifndef MACROS_H
+#define MACROS_H
+
+#define STRING_MAX_LEN 256
+#define ERROR_UB 101
+#define ERROR_EMPTY_STRING 102
+#define ERROR_BUFFER 103
+#define WORDS_MAX_AMOUNT 128
+#define WORDS_LEN 16
+#define CHECK_LEAP_1 400
+#define CHECK_LEAP_2 100
+#define CHECK_LEAP_3 4
+#define NUM_OF_MONTHS 12
+#define ID_FEBRUARY 2
+#define ID_APRIL 4
+#define ID_JUNE 6
+#define ID_SEPTEMBER 9
+#define ID_NOVEMBER 11
+#define LEAP_YEAR_DAYS 29
+#define MAX_MONTH_DAYS 31
+#define MIN_MONTH_DAYS 1
+#define STD_FEBRUARY_DAYS 28
+#define NUM_DATE_ELEMENTS 3
+
+#endif
